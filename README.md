@@ -1,4 +1,4 @@
-# 🎲 Penney’s Game Simulation in Python
+# 🟡 Penney’s Game Simulation in Python
 
 This project implements **Penney’s game** (a classic problem in probability theory) in Python.  
 Two players choose their own coin flip sequences (for example `R O R O`), sequences can't be the same, and then random coin tosses are simulated until one of the chosen sequences appears.  
