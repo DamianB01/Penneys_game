@@ -13,7 +13,7 @@ The player whose sequence appears first wins the game.
    - `O` for heads  
 2. The program simulates random coin flips
 3. Results are stored in a `deque`, which acts as a sliding window of the last flips
-4. If the current sequence matches one of the players’ sequences → that player wins
+4. If the current sequence matches one of the players sequences → that player wins
 5. The program repeats the simulation for as many games as the user specifies and counts wins
 
 -----------------------------------------------------------------------------------------
